@@ -1,5 +1,5 @@
 import json
-import discord
+pip instal discord
 from discord.ext import commands
 import asyncio
 
